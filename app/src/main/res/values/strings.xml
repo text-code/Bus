@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bus №123</string>
+    <string name="raichikhinsk_bureya"><![CDATA[Raichikhinsk -> Bureya]]></string>
+    <string name="bureya_raichikhinsk"><![CDATA[Bureya -> Raichikhinsk]]></string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Автобус №123</string>
+    <string name="raichikhinsk_bureya"><![CDATA[Райчихинск -> Бурея]]></string>
+    <string name="bureya_raichikhinsk"><![CDATA[Бурея -> Райчихинск]]></string>
+</resources>
